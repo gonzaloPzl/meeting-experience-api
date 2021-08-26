@@ -132,7 +132,7 @@ output application/json
 [
   {
     id: 1,
-    tittle: "Rock & roll en Antares",
+    tittle: "Rock & roll en Cheka",
     description: "Cumplimos 8 años 😃🍻 Te esperamos desde las 11:00 hs para celebrar un nuevo cumple de nuestro amado",
     lat: -34.60407189662275,
     lng: -58.38800334935969,
